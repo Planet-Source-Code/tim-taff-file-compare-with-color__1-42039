@@ -1,0 +1,9 @@
+frmMain = 7, 17, 895, 785, , 22, 29, 764, 587, C
+basFileCompare = 44, 58, 891, 719, C
+frmOptions = 66, 87, 847, 805, C, 362, 73, 848, 560, C
+frmOptionsBrowseDir = 110, 145, 836, 744, C, 44, 58, 530, 440, C
+basRegistry = 0, 0, 0, 0, C
+basRichTextBox = 0, 0, 0, 0, C
+basStringFunctions = 0, 0, 0, 0, C
+clsPrintControl = 0, 0, 0, 0, C
+clsRecent = 0, 0, 0, 0, C
